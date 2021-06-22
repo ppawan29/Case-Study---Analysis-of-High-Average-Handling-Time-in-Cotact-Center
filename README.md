@@ -8,6 +8,6 @@ Data Details: -
 
 Approach Used: -
 
-1. Descriptive Analytics - Using 'Exploratory Data Analysis' & 'Feature Engineering'
-2. Prescriptive Analystics - Using Rgression Algorithms & Artificial Nueral Network.
+1. Descriptive Analytics (Using 'Exploratory Data Analysis' & 'Feature Engineering') - This approach throws light on data insights to give an actual landscape of problem.
+2. Prescriptive Analystics (Using Rgression Algorithms & Artificial Nueral Network) - This approach is about creating a predictive model to predict Handling Time of next issue.
 
